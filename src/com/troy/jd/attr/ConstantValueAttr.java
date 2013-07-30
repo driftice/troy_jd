@@ -1,8 +1,8 @@
 package com.troy.jd.attr;
 
-import com.troy.jd.cp.CPInfo;
-import com.troy.jd.de.Decomplier;
-import com.troy.jd.de.TClass;
+import com.troy.jd.decompiler.Decomplier;
+import com.troy.jd.decompiler.TClass;
+import com.troy.jd.pool.CPInfo;
 
 /**
  *  ConstantValue_attribute {

@@ -1,8 +1,8 @@
 package com.troy.jd.attr;
 
-import com.troy.jd.de.Decomplier;
-import com.troy.jd.de.Fillable;
-import com.troy.jd.de.TClass;
+import com.troy.jd.decompiler.Decomplier;
+import com.troy.jd.decompiler.Fillable;
+import com.troy.jd.decompiler.TClass;
 
 public abstract class AttrInfo implements Fillable {
 	protected int attrNameIndex;

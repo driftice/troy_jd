@@ -1,6 +1,6 @@
 package com.troy.jd.attr;
 
-import com.troy.jd.de.TClass;
+import com.troy.jd.decompiler.TClass;
 
 public class AttrInfoTable {
 	public static AttrInfo findAttrByNameIndex(int attrNameIndex, TClass tclass) {

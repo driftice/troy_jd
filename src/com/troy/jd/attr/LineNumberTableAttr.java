@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.troy.jd.de.Decomplier;
-import com.troy.jd.de.TClass;
+import com.troy.jd.decompiler.Decomplier;
+import com.troy.jd.decompiler.TClass;
 
 /**
  * LineNumberTable_attribute {

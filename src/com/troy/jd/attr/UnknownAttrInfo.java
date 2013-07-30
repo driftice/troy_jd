@@ -1,6 +1,6 @@
 package com.troy.jd.attr;
 
-import com.troy.jd.de.TClass;
+import com.troy.jd.decompiler.TClass;
 
 public class UnknownAttrInfo extends AttrInfo {
 

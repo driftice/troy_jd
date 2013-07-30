@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.troy.jd.de.Decomplier;
-import com.troy.jd.de.Fillable;
-import com.troy.jd.de.TClass;
+import com.troy.jd.decompiler.Decomplier;
+import com.troy.jd.decompiler.Fillable;
+import com.troy.jd.decompiler.TClass;
 
 public class Attrs implements Fillable {
 	private List<AttrInfo> attrInfos = new ArrayList<>();

@@ -41,7 +41,7 @@ public class TestCase implements Serializable {
 
 		int k = 0;
 		k++;
-		
+
 		double d1 = 324234d;
 		double d2 = 2;
 		double d3 = d1 + d2;

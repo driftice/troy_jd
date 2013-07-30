@@ -4,11 +4,11 @@ import java.io.File;
 
 import com.troy.jd.attr.AttrInfo;
 import com.troy.jd.attr.Attrs;
-import com.troy.jd.cp.CPInfo;
-import com.troy.jd.de.Decomplier;
-import com.troy.jd.de.FieldInfo;
-import com.troy.jd.de.MethodInfo;
-import com.troy.jd.de.TClass;
+import com.troy.jd.decompiler.Decomplier;
+import com.troy.jd.decompiler.FieldInfo;
+import com.troy.jd.decompiler.MethodInfo;
+import com.troy.jd.decompiler.TClass;
+import com.troy.jd.pool.CPInfo;
 
 public class Test {
 	public static void main(String[] args) throws Exception {
